@@ -29,7 +29,7 @@ y - Target variable
 - Confusion matrix : True positive = 90     True negative = 10
                      False positive = 32    False negative = 22
 
-### Plotting the ROC Curve
+### Plotting the ROC Curve and predicting the AUC score
 - Plotting the true positive rates with respective to false positive rates for different possible cut points of a diagonstic point 
 - Finding the area under ROC curve and thus predicting the score which is equal to 0.698%
 
